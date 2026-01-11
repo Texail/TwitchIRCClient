@@ -17,8 +17,8 @@
 > [!NOTE]
 > uv установит необходимые пакеты и запустит приложение.
 
-
-
+<hr />
+# Twitch IRC Client
 <a name="eng-language"></a>
 ## 📖 Description
 A simple IRC client for connecting to Twitch chat with SSL support and an event-driven system via a dispatcher.
