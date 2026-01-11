@@ -1,7 +1,7 @@
 [project]
-name = "irctwitchclient"
+name = "twitchircclient"
 version = "0.1.0"
-description = "Add your description here"
+description = "A simple IRC client for connecting to Twitch chat with SSL support and an event-driven system via a dispatcher."
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
