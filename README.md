@@ -16,7 +16,7 @@ A simple IRC client for connecting to Twitch chat with SSL support and an event-
 ```uv run main.py```
 > [!NOTE]
 > uv will install the required packages and start the application.
-<hr />
+<hr></hr>
 <a name="ru-language"></a>
 # Twitch IRC Client
 ## 📖 Описание
